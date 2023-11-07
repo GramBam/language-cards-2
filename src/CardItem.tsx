@@ -15,14 +15,14 @@ function CardItem({
     <ReactCardFlip isFlipped={flipped} flipDirection="horizontal">
       <button
         onClick={() => setFlipped(!flipped)}
-        className={`p-10 w-60 h-40 rounded-lg text-2xl`}
+        className={`p-4 w-60 h-40 rounded-lg text-2xl`}
         style={{ backgroundColor: color }}
       >
         <p>{categoryData.english}</p>
       </button>
       <button
         onClick={() => setFlipped(!flipped)}
-        className={`p-10 w-60 h-40 rounded-lg text-2xl`}
+        className={`p-4 w-60 h-40 rounded-lg text-2xl`}
         style={{ backgroundColor: color }}
       >
         <p>{categoryData.albanian}</p>

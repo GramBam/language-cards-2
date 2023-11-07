@@ -12,7 +12,6 @@ function CategoryList({
     (t) => t !== "default"
   ) as k[];
 
-  console.log(categories);
   return (
     <div className="p-4 flex flex-row gap-4 mx-auto justify-center flex-wrap">
       {categories.map((c) => (
