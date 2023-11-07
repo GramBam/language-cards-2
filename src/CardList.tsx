@@ -7,7 +7,7 @@ function CardList({ category }: { category: CategoryData[] }) {
 
   return (
     <div className="p-8 m-auto w-6/12">
-      <div className="flex flex-row flex-wrap gap-4">
+      <div className="flex flex-row flex-wrap gap-4 justify-center">
         {randomized.map((c, i) => (
           <CardItem
             key={c.english}

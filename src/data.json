@@ -106,10 +106,7 @@
     {"english": "You (plural)", "albanian": "Ju", "phonetic": "yoo"},
     {"english": "They", "albanian": "Ata", "phonetic": "ah-tah"},
     {"english": "Me", "albanian": "Mua", "phonetic": "moo-ah"},
-    {"english": "You (informal)", "albanian": "Ti", "phonetic": "tee"},
-    {"english": "He (formal)", "albanian": "Ai", "phonetic": "ah-ee"},
-    {"english": "She (formal)", "albanian": "Ajo", "phonetic": "ah-yoh"},
-    {"english": "They", "albanian": "Ata", "phonetic": "ah-tah"}
+    {"english": "You (informal)", "albanian": "Ti", "phonetic": "tee"}
   ],
   "other": [
     {"english": "House", "albanian": "Shtëpia", "phonetic": "shtuh-pee-ah"},

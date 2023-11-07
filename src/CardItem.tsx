@@ -1,7 +1,6 @@
 import ReactCardFlip from "react-card-flip";
 import { CategoryData } from "./utils/types";
 import { useState } from "react";
-import { itemColors } from "./utils/constants";
 
 function CardItem({
   categoryData,
@@ -27,6 +26,7 @@ function CardItem({
         style={{ backgroundColor: color }}
       >
         <p>{categoryData.albanian}</p>
+        <p className="italic">{categoryData.phonetic}</p>
       </button>
     </ReactCardFlip>
   );
