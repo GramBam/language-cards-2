@@ -11,7 +11,8 @@
     {"english": "Goodbye", "albanian": "Mirupafshim", "phonetic": "mee-roo-pahf-sheem"},
     {"english": "Sorry", "albanian": "Më vjen keq", "phonetic": "muh vyehn kehk"},
     {"english": "How are you?", "albanian": "Si jeni?", "phonetic": "see yeh-nee"},
-    {"english": "I don't understand", "albanian": "Nuk kuptoj", "phonetic": "nook koop-toy"}
+    {"english": "I don't understand", "albanian": "Nuk kuptoj", "phonetic": "nook koop-toy"},
+    {"english": "You look pretty", "albanian": "Ti je e bukur", "phonetic": "tee yeh eh boo-koor"}
   ],
   "animals": [
     {"english": "Dog", "albanian": "Qeni", "phonetic": "cheh-nee"},

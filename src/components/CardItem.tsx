@@ -1,5 +1,5 @@
 import ReactCardFlip from "react-card-flip";
-import { CategoryData } from "./utils/types";
+import { CategoryData } from "../utils/types";
 import { useState } from "react";
 
 function CardItem({
